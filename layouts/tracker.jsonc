@@ -1,0 +1,24 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "h_alignment": "center",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "group",
+                    "header": "Heroes",
+                    "content": {
+                        "type": "layout",
+                        "key": "heroes"
+                    }
+                }
+            ]
+        }
+    },
+    "tracker_broadcast":{
+
+    }
+}

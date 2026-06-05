@@ -1,0 +1,838 @@
+[
+    {
+        "name": "Abrams",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/abrams/abrams_locked.png",
+                "codes": "abrams_locked",
+                "name": "Abrams (Locked)"
+            },
+            {
+                "img": "assets/heroes/abrams/abrams_unlocked.png",
+                "codes": "abrams_unlocked",
+                "name": "Abrams (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/abrams/abrams_win.png",
+                "codes": "abrams_win",
+                "name": "Abrams (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Apollo",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/apollo/apollo_locked.png",
+                "codes": "apollo_locked",
+                "name": "Apollo (Locked)"
+            },
+            {
+                "img": "assets/heroes/apollo/apollo_unlocked.png",
+                "codes": "apollo_unlocked",
+                "name": "Apollo (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/apollo/apollo_win.png",
+                "codes": "apollo_win",
+                "name": "Apollo (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Bebop",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/bebop/bebop_locked.png",
+                "codes": "bebop_locked",
+                "name": "Bebop (Locked)"
+            },
+            {
+                "img": "assets/heroes/bebop/bebop_unlocked.png",
+                "codes": "apollo_unlocked",
+                "name": "Bebop (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/bebop/bebop_win.png",
+                "codes": "bebop_win",
+                "name": "Bebop (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Billy",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/billy/billy_locked.png",
+                "codes": "billy_locked",
+                "name": "Billy (Locked)"
+            },
+            {
+                "img": "assets/heroes/billy/billy_unlocked.png",
+                "codes": "billy_unlocked",
+                "name": "Billy (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/billy/billy_win.png",
+                "codes": "billy_win",
+                "name": "Billy (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Calico",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/calico/calico_locked.png",
+                "codes": "calico_locked",
+                "name": "Calico (Locked)"
+            },
+            {
+                "img": "assets/heroes/calico/calico_unlocked.png",
+                "codes": "calico_unlocked",
+                "name": "Calico (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/calico/calico_win.png",
+                "codes": "calico_win",
+                "name": "Calico (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Celeste",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/celeste/celeste_locked.png",
+                "codes": "celeste_locked",
+                "name": "Celeste (Locked)"
+            },
+            {
+                "img": "assets/heroes/celeste/celeste_unlocked.png",
+                "codes": "celeste_unlocked",
+                "name": "Celeste (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/celeste/celeste_win.png",
+                "codes": "celeste_win",
+                "name": "Celeste (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Doorman",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/doorman/doorman_locked.png",
+                "codes": "doorman_locked",
+                "name": "Doorman (Locked)"
+            },
+            {
+                "img": "assets/heroes/doorman/doorman_unlocked.png",
+                "codes": "doorman_unlocked",
+                "name": "Doorman (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/doorman/doorman_win.png",
+                "codes": "doorman_win",
+                "name": "Doorman (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Drifter",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/drifter/drifter_locked.png",
+                "codes": "drifter_locked",
+                "name": "Drifter (Locked)"
+            },
+            {
+                "img": "assets/heroes/drifter/drifter_unlocked.png",
+                "codes": "drifter_unlocked",
+                "name": "Drifter (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/drifter/drifter_win.png",
+                "codes": "drifter_win",
+                "name": "Drifter (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Dynamo",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/dynamo/dynamo_locked.png",
+                "codes": "dynamo_locked",
+                "name": "Dynamo (Locked)"
+            },
+            {
+                "img": "assets/heroes/dynamo/dynamo_unlocked.png",
+                "codes": "dynamo_unlocked",
+                "name": "Dynamo (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/dynamo/dynamo_win.png",
+                "codes": "dynamo_win",
+                "name": "Dynamo (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Graves",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/graves/graves_locked.png",
+                "codes": "graves_locked",
+                "name": "Graves (Locked)"
+            },
+            {
+                "img": "assets/heroes/graves/graves_unlocked.png",
+                "codes": "graves_unlocked",
+                "name": "Graves (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/graves/graves_win.png",
+                "codes": "graves_win",
+                "name": "Graves (Won)"
+            }
+        ]
+    },
+    {
+       "name": "Grey Talon",
+       "type": "progressive",
+       "allow_disabled": false,
+       "stages": [
+        {
+            "img": "assets/heroes/grey talon/grey_talon_locked.png",
+            "codes": "grey_talon_locked",
+            "name": "Grey Talon (Locked)"
+        },
+        {
+            "img": "assets/heroes/grey talon/grey_talon_unlocked.png",
+            "codes": "grey_talon_unlocked",
+            "name":"Grey Talon (Unlocked)"
+        },
+        {
+            "img":"assets/heroes/grey talon/grey_talon_win.png",
+            "codes": "grey_talon_win",
+            "name":"Grey Talon (Won)"
+        }
+       ]
+    },
+    {
+        "name": "Haze",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/haze/haze_locked.png",
+                "codes": "haze_locked",
+                "name": "Haze (Locked)"
+            },
+            {
+                "img": "assets/heroes/haze/haze_unlocked.png",
+                "codes": "haze_unlocked",
+                "name": "Haze (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/haze/haze_win.png",
+                "codes": "haze_win",
+                "name": "Haze (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Holliday",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/holliday/holliday_locked.png",
+                "codes": "holliday_locked",
+                "name": "Holliday (Locked)"
+            },
+            {
+                "img": "assets/heroes/holliday/holliday_unlocked.png",
+                "codes": "holliday_unlocked",
+                "name": "Holliday (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/holliday/holliday_win.png",
+                "codes": "holliday_win",
+                "name": "Holliday (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Infernus",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/infernus/infernus_locked.png",
+                "codes": "infernus_locked",
+                "name": "Infernus (Locked)"
+            },
+            {
+                "img": "assets/heroes/infernus/infernus_unlocked.png",
+                "codes": "infernus_unlocked",
+                "name": "Infernus (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/infernus/infernus_win.png",
+                "codes": "infernus_win",
+                "name": "Infernus (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Ivy",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/ivy/ivy_locked.png",
+                "codes": "ivy_locked",
+                "name": "Ivy (Locked)"
+            },
+            {
+                "img": "assets/heroes/ivy/ivy_unlocked.png",
+                "codes": "ivy_unlocked",
+                "name": "Ivy (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/ivy/ivy_win.png",
+                "codes": "ivy_win",
+                "name": "Ivy (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Kelvin",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/kelvin/kelvin_locked.png",
+                "codes": "kelvin_locked",
+                "name": "Kelvin (Locked)"
+            },
+            {
+                "img": "assets/heroes/kelvin/kelvin_unlocked.png",
+                "codes": "kelvin_unlocked",
+                "name": "Kelvin (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/kelvin/kelvin_win.png",
+                "codes": "kelvin_win",
+                "name": "Kelvin (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Lady Geist",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/lady geist/lady_geist_locked.png",
+                "codes": "lady_geist_locked",
+                "name": "Lady Geist (Locked)"
+            },
+            {
+                "img": "assets/heroes/lady geist/lady_geist_unlocked.png",
+                "codes": "lady_geist_unlocked",
+                "name": "Lady Geist (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/lady geist/lady_geist_win.png",
+                "codes": "lady_geist_win",
+                "name": "Lady Geist (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Lash",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/lash/lash_locked.png",
+                "codes": "lash_locked",
+                "name": "Lash (Locked)"
+            },
+            {
+                "img": "assets/heroes/lash/lash_unlocked.png",
+                "codes": "lash_unlocked",
+                "name": "Lash (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/lash/lash_win.png",
+                "codes": "lash_win",
+                "name": "Lash (Won)"
+            }
+        ]
+    },
+    {
+        "name": "McGinnis",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/mcginnis/mcginnis_locked.png",
+                "codes": "mcginnis_locked",
+                "name": "McGinnis (Locked)"
+            },
+            {
+                "img": "assets/heroes/mcginnis/mcginnis_unlocked.png",
+                "codes": "mcginnis_unlocked",
+                "name": "McGinnis (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/mcginnis/mcginnis_win.png",
+                "codes": "mcginnis_win",
+                "name": "McGinnis (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Mina",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/mina/mina_locked.png",
+                "codes": "mina_locked",
+                "name": "Mina (Locked)"
+            },
+            {
+                "img": "assets/heroes/mina/mina_unlocked.png",
+                "codes": "mina_unlocked",
+                "name": "Mina (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/mina/mina_win.png",
+                "codes": "mina_win",
+                "name": "Mina (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Mirage",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/mirage/mirage_locked.png",
+                "codes": "mirage_locked",
+                "name": "Mirage (Locked)"
+            },
+            {
+                "img": "assets/heroes/mirage/mirage_unlocked.png",
+                "codes": "mirage_unlocked",
+                "name": "Mirage (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/mirage/mirage_win.png",
+                "codes": "mirage_win",
+                "name": "Mirage (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Mo & Krill",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/mo krill/mo_krill_locked.png",
+                "codes": "mo_krill_locked",
+                "name": "Mo & Krill (Locked)"
+            },
+            {
+                "img": "assets/heroes/mo krill/mo_krill_unlocked.png",
+                "codes": "mo_krill_unlocked",
+                "name": "Mo & Krill (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/mo krill/mo_krill_win.png",
+                "codes": "mo_krill_win",
+                "name": "Mo & Krill (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Paige",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/paige/paige_locked.png",
+                "codes": "paige_locked",
+                "name": "Paige (Locked)"
+            },
+            {
+                "img": "assets/heroes/paige/paige_unlocked.png",
+                "codes": "paige_unlocked",
+                "name": "Paige (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/paige/paige_win.png",
+                "codes": "paige_win",
+                "name": "Paige (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Paradox",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/paradox/paradox_locked.png",
+                "codes": "paradox_locked",
+                "name": "Paradox (Locked)"
+            },
+            {
+                "img": "assets/heroes/paradox/paradox_unlocked.png",
+                "codes": "paradox_unlocked",
+                "name": "Paradox (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/paradox/paradox_win.png",
+                "codes": "paradox_win",
+                "name": "Paradox (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Pocket",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/pocket/pocket_locked.png",
+                "codes": "pocket_locked",
+                "name": "Pocket (Locked)"
+            },
+            {
+                "img": "assets/heroes/pocket/pocket_unlocked.png",
+                "codes": "pocket_unlocked",
+                "name": "Pocket (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/pocket/pocket_win.png",
+                "codes": "pocket_win",
+                "name": "Pocket (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Rem",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/rem/rem_locked.png",
+                "codes": "rem_locked",
+                "name": "Rem (Locked)"
+            },
+            {
+                "img": "assets/heroes/rem/rem_unlocked.png",
+                "codes": "rem_unlocked",
+                "name": "Rem (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/rem/rem_win.png",
+                "codes": "rem_win",
+                "name": "Rem (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Seven",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/seven/seven_locked.png",
+                "codes": "seven_locked",
+                "name": "Seven (Locked)"
+            },
+            {
+                "img": "assets/heroes/seven/seven_unlocked.png",
+                "codes": "seven_unlocked",
+                "name": "Seven (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/seven/seven_win.png",
+                "codes": "seven_win",
+                "name": "Seven (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Shiv",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/shiv/shiv_locked.png",
+                "codes": "shiv_locked",
+                "name": "Shiv (Locked)"
+            },
+            {
+                "img": "assets/heroes/shiv/shiv_unlocked.png",
+                "codes": "shiv_unlocked",
+                "name": "Shiv (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/shiv/shiv_win.png",
+                "codes": "Shiv_win",
+                "name": "Shiv (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Silver",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/silver/silver_locked.png",
+                "codes": "silver_locked",
+                "name": "Silver (Locked)"
+            },
+            {
+                "img": "assets/heroes/silver/silver_unlocked.png",
+                "codes": "silver_unlocked",
+                "name": "Silver (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/silver/silver_win.png",
+                "codes": "silver_win",
+                "name": "Silver (Win)"
+            }
+        ]
+    },
+    {
+        "name": "Sinclair",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/sinclair/sinclair_locked.png",
+                "codes": "sinclair_locked",
+                "name": "Sinclair (Locked)"
+            },
+            {
+                "img": "assets/heroes/sinclair/sinclair_unlocked.png",
+                "codes": "sinclair_unlocked",
+                "name": "Sinclair (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/sinclair/sinclair_win.png",
+                "codes": "sinclair_win",
+                "name": "Sinclair (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Venator",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/venator/venator_locked.png",
+                "codes": "venator_locked",
+                "name": "Venator (Locked)"
+            },
+            {
+                "img": "assets/heroes/venator/venator_unlocked.png",
+                "codes": "venator_unlocked",
+                "name": "Venator (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/venator/venator_win.png",
+                "codes": "venator_win",
+                "name": "Venator (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Victor",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/victor/victor_locked.png",
+                "codes": "victor_locked",
+                "name": "Victor (Locked)"
+            },
+            {
+                "img": "assets/heroes/victor/victor_unlocked.png",
+                "codes": "victor_unlocked",
+                "name": "Victor (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/victor/victor_win.png",
+                "codes": "victor_win",
+                "name": "Victor (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Vindicta",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/vindicta/vindicta_locked.png",
+                "codes": "vindicta_locked",
+                "name": "Vindicta (Locked)"
+            },
+            {
+                "img": "assets/heroes/vindicta/vindicta_unlocked.png",
+                "codes": "vindicta_unlocked",
+                "name": "Vindicta (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/vindicta/vindicta_win.png",
+                "codes": "vindicta_win",
+                "name": "Vindicta (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Viscous",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/viscous/viscous_locked.png",
+                "codes": "viscous_locked",
+                "name": "Viscous (Locked)"
+            },
+            {
+                "img": "assets/heroes/viscous/viscous_unlocked.png",
+                "codes": "viscous_unlocked",
+                "name": "Viscous (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/viscous/viscous_win.png",
+                "codes": "viscous_win",
+                "name": "Viscous (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Vyper",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/vyper/vyper_locked.png",
+                "codes": "vyper_locked",
+                "name": "Vyper (Locked)"
+            },
+            {
+                "img": "assets/heroes/vyper/vyper_unlocked.png",
+                "codes": "vyper_unlocked",
+                "name": "Vyper (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/vyper/vyper_win.png",
+                "codes": "vyper_win",
+                "name": "Vyper (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Warden",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/warden/warden_locked.png",
+                "codes": "warden_locked",
+                "name": "Warden (Locked)"
+            },
+            {
+                "img": "assets/heroes/warden/warden_unlocked.png",
+                "codes": "warden_unlocked",
+                "name": "Warden (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/wardeb/warden_win.png",
+                "codes": "warden_win",
+                "name": "Warden (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Wraith",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/wraith/wraith_locked.png",
+                "codes": "wraith_locked",
+                "name": "Wraith (Locked)"
+            },
+            {
+                "img": "assets/heroes/wraith/wraith_unlocked.png",
+                "codes": "wraith_unlocked",
+                "name": "Wraith (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/wraith/wraith_win.png",
+                "codes": "wraith_win",
+                "name": "Wraith (Won)"
+            }
+        ]
+    },
+    {
+        "name": "Yamato",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "assets/heroes/yamato/yamato_locked.png",
+                "codes": "yamato_locked",
+                "name": "Yamato (Locked)"
+            },
+            {
+                "img": "assets/heroes/yamato/yamato_unlocked.png",
+                "codes": "yamato_unlocked",
+                "name": "Yamato (Unlocked)"
+            },
+            {
+                "img": "assets/heroes/yamato/yamato_win.png",
+                "codes": "yamato_win",
+                "name": "Yamato (Won)"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "heroes": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 5",
+                        "item_size": "100, 136",
+                        // 8 Heroes Per Row
+                        "rows": [
+                            [
+                                "abrams_locked",
+                                "apollo_locked", 
+                                "bebop_locked",
+                                "billy_locked",
+                                "calico_locked",
+                                "celeste_locked",
+                                "doorman_locked",
+                                "drifter_locked"
+                            ],
+                            [
+                                "dynamo_locked",
+                                "graves_locked",
+                                "grey_talon_locked",
+                                "haze_locked",
+                                "holliday_locked",
+                                "infernus_locked",
+                                "ivy_locked",
+                                "kelvin_locked"
+                            ],
+                            [
+                                "lady_geist_locked",
+                                "lash_locked",
+                                "mcginnis_locked",
+                                "mina_locked",
+                                "mirage_locked",
+                                "mo_krill_locked",
+                                "paige_locked",
+                                "paradox_locked"
+                            ],
+                            [
+                                "pocket_locked",
+                                "rem_locked",
+                                "seven_locked",
+                                "shiv_locked",
+                                "silver_locked",
+                                "sinclair_locked",
+                                "venator_locked",
+                                "victor_locked"
+                            ],
+                            [
+                                "vindicta_locked",
+                                "viscous_locked",
+                                "vyper_locked",
+                                "warden_locked",
+                                "wraith_locked",
+                                "yamato_locked"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]  
+    }
+}
