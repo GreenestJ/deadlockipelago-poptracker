@@ -1,6 +1,6 @@
 # Info
 
-An easy way to track progress and unlocked heroes on [Deadlockipelago](https://github.com/GreenestJ/deadlockipelago) as well as checks
+An easy way to track progress and unlocked heroes  on [Deadlockipelago](https://github.com/GreenestJ/deadlockipelago) with [Poptracker](https://github.com/black-sliver/PopTracker).
 
 Preview of the tracker's assets (background is just to make look the preview look nicer it is not part of the tracker)
 ![Asset Tracker Preview Featuring Large and Small Icons of Abrams, Apolllo, Bebop, and Billy](/assets/Preview.png)
