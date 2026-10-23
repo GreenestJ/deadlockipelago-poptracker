@@ -785,7 +785,7 @@
                 "name": "Warden (Unlocked)"
             },
             {
-                "img": "assets/heroes/wardeb/warden_win.png",
+                "img": "assets/heroes/warden/warden_win.png",
                 "codes": "warden_win",
                 "name": "Warden (Won)"
             }
